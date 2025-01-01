@@ -1,0 +1,89 @@
+name,low,high,units,description,color,type,tag,check
+Cognitivity Index,90,100,%,Good,#009900,index,,TRUE
+Cognitivity Index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Cognitivity Index,0,80,%,Poor,#ff0000,index,,TRUE
+Quality of sleep index,90,100,%,Good,#009900,index,,TRUE
+Quality of sleep index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Quality of sleep index,0,80,%,Poor,#ff0000,index,,TRUE
+Long term health index,90,100,%,Good,#009900,index,,TRUE
+Long term health index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Long term health index,0,80,%,Poor,#ff0000,index,,TRUE
+Short term health index,90,100,%,Good,#009900,index,,TRUE
+Short term health index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Short term health index,0,80,%,Poor,#ff0000,index,,TRUE
+Building health index,90,100,%,Good,#009900,index,,TRUE
+Building health index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Building health index,0,80,%,Poor,#ff0000,index,,TRUE
+Respiratory tract irritation index,90,100,%,Good,#009900,index,,TRUE
+Respiratory tract irritation index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Respiratory tract irritation index,0,80,%,Poor,#ff0000,index,,TRUE
+Olfactory Comfort Index,90,100,%,Good,#009900,index,,TRUE
+Olfactory Comfort Index,80,90,%,Acceptable,#ff9900,index,,TRUE
+Olfactory Comfort Index,0,80,%,Poor,#ff0000,index,,TRUE
+Risk of virus spreading index,0,5,%,Good,#009900,index,,TRUE
+Risk of virus spreading index,5,20,%,Acceptable,#ff9900,index,,TRUE
+Risk of virus spreading index,20,100,%,Critical,#ff0000,index,,TRUE
+CO2,0,500,ppm,Low,#009900,sensor,,TRUE
+CO2,501,1000,ppm,Elevated,#ff9900,sensor,,TRUE
+CO2,1000,5000,ppm,Critical,#ff0000,sensor,,TRUE
+Total VOC,0,300,ug/m^3,Low,#009900,sensor,,TRUE
+Total VOC,300,500,ug/m^3,Acceptable,#ff9900,sensor,,TRUE
+Total VOC,500,1000,ug/m^3,Marginal,#ff9900,sensor,,TRUE
+Total VOC,1000,3000,ug/m^3,High,#ff0000,sensor,,TRUE
+Total VOC,3000,65000,ug/m^3,Very high,#ff0000,sensor,,TRUE
+Temperature,0,15,C,Cold,#ff0000,sensor,,TRUE
+Temperature,0,20,C,Cool,#ff9900,sensor,,TRUE
+Temperature,20,25,C,Comfortable,#009900,sensor,,TRUE
+Temperature,25,27,C,Warm,#ff9900,sensor,,TRUE
+Temperature,25,50,C,Hot,#ff0000,sensor,,TRUE
+Relative Humidity,0,30,%,Over Dry,#ff0000,sensor,,TRUE
+Relative Humidity,30,40,%,Good,#009900,sensor,,TRUE
+Relative Humidity,40,45,%,Very good,#009900,sensor,,TRUE
+Relative Humidity,45,50,%,Good,#009900,sensor,,TRUE
+Relative Humidity,50,100,%,High,#ff0000,sensor,,TRUE
+O3,0,50,ppb,Low,#009900,sensor,,TRUE
+O3,50,100,ppb,Elevated,#ff9900,sensor,,TRUE
+O3,100,500,ppb,High,#ff0000,sensor,,TRUE
+Sulphurous Odors,0,20,,No odor,#009900,sensor,,TRUE
+Sulphurous Odors,20,60,,Noticeable order,#ff9900,sensor,,TRUE
+Sulphurous Odors,60,100,,Ordor detected,#ff0000,sensor,,TRUE
+NOx,0,50,ppb,Low,#009900,sensor,,TRUE
+NOx,50,100,ppb,Elevated,#ff9900,sensor,,TRUE
+NOx,100,500,ppb,High,#ff0000,sensor,,TRUE
+PM10,0,50,ug/m^3,Normal,#009900,sensor,,TRUE
+PM10,51,100,ug/m^3,Moderate,#ff9900,sensor,,TRUE
+PM10,101,200,ug/m^3,Unhealthy,#ff9900,sensor,,TRUE
+PM10,201,300,ug/m^3,Very unhealthy,#ff9900,sensor,,TRUE
+PM10,301,1000,ug/m^3,Hazardous,#ff0000,sensor,,TRUE
+PM2.5,0,12,ug/m^3,Normal,#009900,sensor,,TRUE
+PM2.5,12.1,35.4,ug/m^3,Moderate,#ff9900,sensor,,TRUE
+PM2.5,35.5,150,ug/m^3,Unhealthy,#ff9900,sensor,,TRUE
+PM2.5,150.5,250.4,ug/m^3,Very unhealthy,#ff9900,sensor,,TRUE
+PM2.5,250,1000,ug/m^3,Hazardous,#ff0000,sensor,,TRUE
+PM1,0,12,ug/m^3,Normal,#009900,sensor,,TRUE
+PM1,12.1,35.4,ug/m^3,Moderate,#ff9900,sensor,,TRUE
+PM1,35.5,150,ug/m^3,Unhealthy,#ff9900,sensor,,TRUE
+PM1,150.5,250.4,ug/m^3,Very unhealthy,#ff9900,sensor,,TRUE
+PM1,250,1000,ug/m^3,Hazardous,#ff0000,sensor,,TRUE
+Average Noise Level,0,70,dB,Acceptable,#009900,sensor,,TRUE
+Average Noise Level,70,90,dB,Warning,#ff9900,sensor,,TRUE
+Average Noise Level,90,120,dB,Critical,#ff0000,sensor,,TRUE
+Peak Noise Level,0,70,dB,Acceptable,#009900,sensor,,TRUE
+Peak Noise Level,70,90,dB,Warning,#ff9900,sensor,,TRUE
+Peak Noise Level,90,120,dB,Critical,#ff0000,sensor,,TRUE
+Absolute Humidity,0,6,g/m^3,Low,#ff9900,sensor,,TRUE
+Absolute Humidity,6,10,g/m^3,Good,#009900,sensor,,TRUE
+Absolute Humidity,10,12,g/m^3,High,#ff9900,sensor,,TRUE
+Absolute Humidity,12,20,g/m^3,Very high,#ff0000,sensor,,TRUE
+Atmosferic Pressure,0,990,mbar,Very low,#ff0000,sensor,,TRUE
+Atmosferic Pressure,990,1000,mbar,Low,#ff9900,sensor,,TRUE
+Atmosferic Pressure,1000,1020,mbar,Good,#009900,sensor,,TRUE
+Atmosferic Pressure,1020,1050,mbar,High,#ff9900,sensor,,TRUE
+Atmosferic Pressure,1050,1638,mbar,Very high,#ff0000,sensor,,TRUE
+LUX,0,100,,Low,#ff9900,sensor,Living room,TRUE
+LUX,100,300,,Good,#009900,sensor,Living room,TRUE
+LUX,300,1000,,High,#ff9900,sensor,Living room,TRUE
+Light Color T,0,3000,K,Warm white,#009900,sensor,,
+Light Color T,3000,5000,K,Cool white,#009901,sensor,,
+Light Color T,5000,7000,K,Bright white,#009901,,,
+Light Flickering,0,100,,Good,#009900,sensor,,TRUE

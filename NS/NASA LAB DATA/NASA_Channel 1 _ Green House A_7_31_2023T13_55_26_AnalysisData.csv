@@ -1,0 +1,20 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Ethylene,,,,,70,30,-0.0064,0.0122,0.0002,0.6029,69.69459306358382,,03/18/2023,,,ppm
+Table,Methane,,,,,110,20,,,,0,0,,03/18/2023,,,ppm
+Table,Methanol,,,,,280,30,0.084,0.234,0,0,0.0012529479768769074,,03/18/2023,,,ppm
+Table,Acetone,,,,,410,30,0.084,0.234,0,0.0021,0.24810104046242912,,03/18/2023,,,ppm
+Table,Ethanol,,,,,530,30,,,,0.0007,0.08557283236994309,,03/18/2023,,,ppm
+Table,Isopropanol,,,,,840,40,,,,0.0003,0.03270485549132996,,03/18/2023,,,ppm
+Table,Ethyl Butyrate,,,,,380,30,,,,0.0023,0.2604868208092475,,03/18/2023,,,ppm
+Table,Butanol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Butyraldehyde,,,,,900,30,,,,0.0007,0.07972138728323744,,03/18/2023,,,ppm
+Table,2-Butanone,,,,,915,30,,,,0.0007,0.07972138728323744,,03/18/2023,,,ppm
+Table,Hexanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Benzene,,,,,1400,60,0.084,0.234,0,0.0004,0.049012254335258874,,03/18/2023,,,ppm
+Table,Hydrogen Sulfide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Carbon Monoxide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Hydrogen ,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Furan,,,,,360,20,,,,0.002,0.2278278612716763,,03/18/2023,,,ppm
+Table,Isoprene,,,,,470,20,,,,0.0002,0.01980739884392848,,03/18/2023,,,ppm
+Table,Butane,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Acetaldehyde,,,,,108,30,,,,0,0,,03/18/2023,,,ppm

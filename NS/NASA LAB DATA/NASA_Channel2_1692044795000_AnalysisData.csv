@@ -1,0 +1,50 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+,Amonia,,,,,60,20,,,,0,0,,03/18/2023,,,ppm
+,Ethylene,,,,,75,20,-0.0064,0.0122,0.0002,0,0,,03/18/2023,0.019334,0.000195,ppm
+,Acetylene,,,,,90,20,,,,0,0,,03/18/2023,,,ppm
+,Hydrogen Sulfide,,,,,95,20,,,,0,0,,03/18/2023,,,ppm
+,Methane,,,,,110,20,,,,0,0,,03/18/2023,,,ppm
+,Propane,,,,,110,20,,,,0,0,,03/18/2023,,,ppm
+,Acetaldehyde,,,,,180,20,,,,0,0,,03/18/2023,,,ppm
+,Methanol,,,,,280,30,0.084,0.234,0,0,0,,03/18/2023,,,ppm
+,Carbon Disulfide,,,,,360,30,,,,0,0,,03/18/2023,,,ppm
+,Furan,,,,,360,20,,,,0,0,,03/18/2023,,,ppm
+,Dimethyl sulfide,,,,,360,20,,,,0,0,,03/18/2023,,,ppm
+,Acetone,,,,,410,30,0.084,0.234,0,0,0,,03/18/2023,,,ppm
+,Isoprene,,,,,470,20,,,,0,0,,03/18/2023,,,ppm
+,Ethanol,,,,,530,30,,,,0,0,,03/18/2023,,,ppm
+,Isopropanol,,,,,840,40,,,,0,0,,03/18/2023,,,ppm
+,Butyraldehyde,,,,,900,30,,,,0,0,,03/18/2023,,,ppm
+,2-Butanone,,,,,915,30,,,,0,0,,03/18/2023,,,ppm
+,Benzene,,,,,1400,60,0.084,0.234,0,0,0,,03/18/2023,,,ppm
+,trans-2-butene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Butanol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Hexanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Carbon Monoxide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Hydrogen ,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Phenol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Butane,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,tert-Butyl isothiocyanate,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Dimethylaminoacetonitrile,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Dimethyl disulfide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,2-Methylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,3-Methylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,2-methyl-2-propanamine,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Thiourea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Thiobismethane,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Tetramethylurea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,2-Propenenitrile,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Tetramethylthiourea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Ethyl Butyrate,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Toluene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,EthylBenzene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Xylene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Benzaldehyde,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,p-Cymene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Decanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,2-Ethylhexanol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Limonene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,Nonanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,2-Pentylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,a-Pinene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+,b-Pinene,,,,,,,,,,0,0,,03/18/2023,,,ppm

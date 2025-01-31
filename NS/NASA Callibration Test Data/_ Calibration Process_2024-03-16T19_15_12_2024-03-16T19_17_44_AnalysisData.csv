@@ -1,0 +1,2 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Ethylene,165,290,Restek_Carbowax_PKC53217,piD-TECH_045-014,85,20,-0.0064,0.0122,0.0002,0.0032,0.36802936416185,0.1,3/16/2024,,,ppm

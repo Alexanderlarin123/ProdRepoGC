@@ -1,0 +1,6 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Ethylene,,,,,65,20,-0.0064,0.0122,0.0002,0.0003,0.03612716763006024,,03/18/2023,,,ppm
+Table,Methanol,,,,,200,45,0.084,0.234,0,0.0001,0.013547976878613078,,03/18/2023,,,ppm
+Table,Benzene,,,,,880,80,0.084,0.234,0,0,0,,03/18/2023,,,ppm
+Table,Acetone,,,,,280,50,0.084,0.234,0,0.0005,0.05419236994219453,,03/18/2023,,,ppm
+Table,Hexanol,,,,,650,50,0.084,0.234,0,0.0002,0.027096184971097264,,03/18/2023,,,ppm

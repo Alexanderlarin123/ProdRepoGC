@@ -1,0 +1,5 @@
+description,fill,Front,FrontColor,SecondaryFrontColor,SecondarySize,Size,concentration,value,name,status,newStatus
+,#003399,Arial,fill499,fill501,20,26,0.05,0.0006,,true,true
+,#003399,Arial,fill499,fill501,20,26,0.1,0.0015,,true,true
+,#003399,Arial,fill499,fill501,20,26,0.5,0.0047,,true,true
+,#003399,Arial,fill499,fill501,20,26,50,0.0006,,true,true

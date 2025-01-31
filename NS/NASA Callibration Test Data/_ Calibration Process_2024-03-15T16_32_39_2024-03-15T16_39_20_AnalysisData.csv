@@ -1,0 +1,2 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Methanol,165,355,Restek_Carbowax_PKC53217,piD-TECH_045-014,280,30,0.084,0.234,0,0.0002,0.01790728323699428,1,3/15/2024,,,ppm

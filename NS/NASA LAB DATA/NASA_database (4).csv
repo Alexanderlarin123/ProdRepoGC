@@ -1,0 +1,6 @@
+id,name,temp,pressure,column,sensor,retentionTime,deltaT,coeffA,coeffB,coeffC,coeffD,calData
+1,Ethylene,165,360,Restek_Carbowax_PKC53217,piD-TECH_045-014,65,20,-0.0064,0.0122,0.0002,0,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":false,""TIMESTAMP"":""""},{""PPM"":""0.05"",""VALUE"":""0.0006"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""0.1"",""VALUE"":""0.0015"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""0.5"",""VALUE"":""0.0047"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""50"",""VALUE"":""0.0006"",""STATUS"":null,""TIMESTAMP"":""""}]"
+2,Methanol,165,360,Restek_Carbowax_PKC53217,piD-TECH_045-014,200,45,0.084,0.234,0,0.234,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""50"",""VALUE"":""0.0002"",""STATUS"":true,""TIMESTAMP"":""""}]"
+3,Benzene,165,360,Restek_Carbowax_PKC53217,piD-TECH_045-014,880,80,0.084,0.234,0,0.234,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":""null"",""TIMESTAMP"":""""}]"
+4,Acetone,165,360,Restek_Carbowax_PKC53217,piD-TECH_045-014,280,50,0.084,0.234,0,0.234,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":""null"",""TIMESTAMP"":""""}]"
+5,Hexanol,165,360,Restek_Carbowax_PKC53217,piD-TECH_045-014,650,50,0.084,0.234,0,0.234,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":""null"",""TIMESTAMP"":""""}]"

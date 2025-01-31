@@ -1,0 +1,4 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration
+Table,Napthalene,,,,,100,25,,,,0,0,
+Table,Acenapthene,,,,,260,25,,,,0,0,
+Table,Flourene,,,,,322,25,,,,0,0,

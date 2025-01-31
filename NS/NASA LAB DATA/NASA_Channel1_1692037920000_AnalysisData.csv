@@ -1,0 +1,50 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Amonia,,,,,60,20,,,,0.0005,0.0005181100000000022,,03/18/2023,,,ppm
+Table,Ethylene,,,,,75,20,-0.0064,0.0122,0.0002,0.0002,0.012730423088860295,,03/18/2023,0.019334,0.000195,ppm
+Table,Acetylene,,,,,90,20,,,,0.0002,0.00024613000000002494,,03/18/2023,,,ppm
+Table,Hydrogen Sulfide,,,,,95,20,,,,0.0004,0.0004455890000000101,,03/18/2023,,,ppm
+Table,Methane,,,,,110,20,,,,0.0004,0.0004455890000000101,,03/18/2023,,,ppm
+Table,Propane,,,,,110,20,,,,0.0004,0.0004455890000000101,,03/18/2023,,,ppm
+Table,Acetaldehyde,,,,,180,20,,,,0.0005,0.0005115999999999871,,03/18/2023,,,ppm
+Table,Methanol,,,,,280,30,0.084,0.234,0,0.0008,0.0008126900000000187,,03/18/2023,,,ppm
+Table,Carbon Disulfide,,,,,360,30,,,,0.0001,0.0001385160000000052,,03/18/2023,,,ppm
+Table,Furan,,,,,360,20,,,,0.0001,0.0001385160000000052,,03/18/2023,,,ppm
+Table,Dimethyl sulfide,,,,,360,20,,,,0.0001,0.0001385160000000052,,03/18/2023,,,ppm
+Table,Acetone,,,,,410,30,0.084,0.234,0,0.0007,0.0006848900000000074,,03/18/2023,,,ppm
+Table,Isoprene,,,,,470,20,,,,0.0005,0.0005192550000000101,,03/18/2023,,,ppm
+Table,Ethanol,,,,,530,30,,,,0.0003,0.0003377640000000043,,03/18/2023,,,ppm
+Table,Isopropanol,,,,,840,40,,,,0.0002,0.00022750900000001462,,03/18/2023,,,ppm
+Table,Butyraldehyde,,,,,900,30,,,,0.0001,0.00007322000000001272,,03/18/2023,,,ppm
+Table,2-Butanone,,,,,915,30,,,,0.0001,0.00008758000000000377,,03/18/2023,,,ppm
+Table,Benzene,,,,,1400,60,0.084,0.234,0,0.0005,0.000498017999999989,,03/18/2023,,,ppm
+Table,trans-2-butene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Butanol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Hexanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Carbon Monoxide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Hydrogen ,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Phenol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Butane,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,tert-Butyl isothiocyanate,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Dimethylaminoacetonitrile,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Dimethyl disulfide,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,2-Methylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,3-Methylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,2-methyl-2-propanamine,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Thiourea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Thiobismethane,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Tetramethylurea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,2-Propenenitrile,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Tetramethylthiourea,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Ethyl Butyrate,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Toluene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,EthylBenzene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Xylene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Benzaldehyde,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,p-Cymene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Decanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,2-Ethylhexanol,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Limonene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,Nonanal,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,2-Pentylfuran,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,a-Pinene,,,,,,,,,,0,0,,03/18/2023,,,ppm
+Table,b-Pinene,,,,,,,,,,0,0,,03/18/2023,,,ppm

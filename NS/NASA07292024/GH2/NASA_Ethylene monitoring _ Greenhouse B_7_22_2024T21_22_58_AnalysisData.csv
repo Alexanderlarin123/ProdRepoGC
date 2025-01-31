@@ -1,0 +1,50 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Amonia,,,,,70,15,,,,0.0013,16.228554216867337,,7/29/2024,0.000083,0,ppm
+Table,Ethylene,,,,,85,20,-0.0064,0.0122,0.0002,0.0013,0.050721584656500396,,7/29/2024,0.025444,0.000656,ppm
+Table,Acetylene,,,,,100,20,,,,0.0009,4.031956521739102,,7/29/2024,0.00023,-0.000633,ppm
+Table,Hydrogen Sulfide,,,,,105,20,,,,0.0009,0.10667778672495036,,7/29/2024,0.008693,-0.003633,ppm
+Table,Methane,,,,,70,15,,,,0.0013,1346.969999999989,,7/29/2024,0.000001,0.001811,ppm
+Table,Propane,,,,,120,15,,,,0.0001,0.08838505747126753,,7/29/2024,0.001044,-0.1,ppm
+Table,Acetaldehyde,,,,,180,20,,,,0.0009,0.0009092779999999995,,7/29/2024,,,ppm
+Table,Methanol,,,,,120,15,0.084,0.234,0,0.0001,0.004023634064448755,,7/29/2024,0.022933,-0.004833,ppm
+Table,Carbon Disulfide,,,,,360,30,,,,0.0016,0.0015828690000000006,,7/29/2024,,,ppm
+Table,Furan,,,,,360,20,,,,0.001,0.0009900099999999995,,7/29/2024,,,ppm
+Table,Dimethyl sulfide,,,,,360,20,,,,0.001,0.0009900099999999995,,7/29/2024,,,ppm
+Table,Acetone,,,,,410,30,0.084,0.234,0,0.0019,0.0018556259999999991,,7/29/2024,,,ppm
+Table,Isoprene,,,,,470,20,,,,0.0005,0.0004583899999999891,,7/29/2024,,,ppm
+Table,Ethanol,,,,,450,30,,,,0.0017,0.5987866197183074,,7/29/2024,0.00284,-0.0035,ppm
+Table,Isopropanol,,,,,840,40,,,,0,0,,7/29/2024,,,ppm
+Table,Butyraldehyde,,,,,900,30,,,,0,0,,7/29/2024,,,ppm
+Table,2-Butanone,,,,,915,30,,,,0,0,,7/29/2024,,,ppm
+Table,Benzene,,,,,1400,60,0.084,0.234,0,0,0,,7/29/2024,,,ppm
+Table,trans-2-butene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Butanol,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Hexanal,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Carbon Monoxide,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Hydrogen ,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Phenol,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Butane,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,tert-Butyl isothiocyanate,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Dimethylaminoacetonitrile,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Dimethyl disulfide,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,2-Methylfuran,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,3-Methylfuran,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,2-methyl-2-propanamine,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Thiourea,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Thiobismethane,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Tetramethylurea,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,2-Propenenitrile,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Tetramethylthiourea,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Ethyl Butyrate,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Toluene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,EthylBenzene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Xylene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Benzaldehyde,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,p-Cymene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Decanal,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,2-Ethylhexanol,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Limonene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,Nonanal,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,2-Pentylfuran,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,a-Pinene,,,,,,,,,,0,0,,7/29/2024,,,ppm
+Table,b-Pinene,,,,,,,,,,0,0,,7/29/2024,,,ppm

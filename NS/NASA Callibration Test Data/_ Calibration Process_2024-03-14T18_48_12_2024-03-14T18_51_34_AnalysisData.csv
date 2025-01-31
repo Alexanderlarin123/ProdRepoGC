@@ -1,0 +1,2 @@
+GCdata,name,temp,pressure,column,sensor,retentionTime,length,coeffA,coeffB,coeffC,maxSignal,concentration,CalibrationConcentration,timestamp,slope,constant,unit
+Table,Hydrogen Sulfide,165,355,Restek_Carbowax_PKC53217,piD-TECH_045-014,105,20,,,,0.0018,0.21289479768786,0.625,3/14/2024,,,ppm

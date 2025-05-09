@@ -1,0 +1,28 @@
+headers,value0,path,objectType,objectInstance,type,description,dataType,units
+Application,NASA,/Data/GEN_CFG_ApplicationType_SP,,,operation,Application type,enum,
+Pressure,160,/Data/GC_CFG_ColumnPressure_SP,,,column,Operating pressure,numeric,Hg
+ColumnTemp,165,/Data/GC_CFG_ColumnTemp_SP,,,column,Column temperature,numeric,C
+ColumnType,"Restek,Carbowax,80121-800",/Data/GC_CFG_ColumnType_SP,,,column,Column type,enum,
+ColumnLength,2,/Data/GC_CFG_ColumnLength_SP,,,column,Column length,numeric,m
+AnalysisTime,700,/Data/GC_CFG_AnalysisTime_SP,,,operation,Time of analysis,numeric,sec
+PurgingTime,15,/Data/GC_CFG_PurgingTime_SP,,,operation,Purging time for pre-concentrator,numeric,sec
+SamplingTime,15,/Data/GC_CFG_SamplingTime_SP,,,operation,Sampling time,numeric,sec
+InjectionTime,5,/Data/GC_CFG_InjectionTime_SP,,,operation,Injection time,numeric,sec
+WarmUpTime,600,/Data/GC_CFG_WarmUpTime_SP,,,operation,Warm up time for GC,numeric,sec
+PreconcentratorType,"Restek,CarboBlack,000-000",/Data/GC_CFG_PreconcentratorType_SP,,,preconcentrator,Type of pre-concentrator,enum,
+Preconcentrator,TRUE,/Data/GC_CFG_Preconcentrator_CF,,,preconcentrator,Pre-concentrator injection temperature,boolean,
+GCSensor1Type,"piD-TECH,045-014",/Data/GC_CFG_S01_Type_SP,,,sensor,Sensor 1 type,enum,
+GCSensor2Type,Non,/Data/GC_CFG_S02_Type_SP,,,sensor,Sensor 2 type,enum,
+GCSensor3Type,Non,/Data/GC_CFG_S03_Type_SP,,,sensor,Sensor 3 type,enum,
+GCSensor4Type,Non,/Data/GC_CFG_S04_Type_SP,,,sensor,Sensor 4 type,enum,
+GCSensorsNum,1,/Data/GC_CFG_SensorNumer_SP,,,sensor,Number of active sensors,numeric,
+GCChannelNum,4,/Data/GC_CFG_ChannelNumber_SP,,,sample,Number of sampling channels,numeric,
+GCMultiChannel,TRUE,/Data/GC_CFG_MultiChannel_CF,,,operation,GC multi channel analysis enabled,boolean,
+RTSensorModule,TRUE,/Data/RT_CFG_SensorModule_CF,,,realTimeSensor,Real time sensor module enabled,boolean,
+RTSensorModuleNumber,12,/Data/RT_CFG_SensorModule_SP,,,realTimeSensor,Real time sensor module number,numeric,
+CalibrationModule,TRUE,/Data/GEN_CFG_CalibrationModule_CF,,,callibrarion,Callibration module enabled,boolean,
+UnitLogo,images/GreenHouse.png,,,,interface,Sampling unit/channel logo,string,
+MainLogo,images/NASA.png,,,,interface,Main logo,string,
+MainColor,#003399,,,,interface,Main color,string,
+UnitName,Green House,,,,interface,Unit name,string,
+MainTitle,NASA,,,,interface,Main title,string,

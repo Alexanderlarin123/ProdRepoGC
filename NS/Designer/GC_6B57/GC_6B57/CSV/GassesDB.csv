@@ -1,0 +1,5 @@
+name,temp,pressure,column,sensor,retentionTime,deltaT,coeffA,coeffB,coeffC,coeffD,lastUpdate
+Benzene,90,130,CarboWAX,TGX2343a,90,15,0.084,0.234,0.1,0.234,12/12/2022 7:35am
+Toluene,90,130,CarboWAX,TGX2343a,120,30,0.084,0.234,0.1,0.234,12/12/2022 8:35am
+Ethylebenzene,90,130,CarboWAX,TGX2343a,310,40,0.084,0.234,0.1,0.234,12/12/2022 9:35am
+Xylene,90,130,CarboWAX,TGX2343a,500,50,0.084,0.234,0.1,0.234,12/12/2022 10:35am

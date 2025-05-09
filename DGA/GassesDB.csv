@@ -1,0 +1,7 @@
+id,name,temp,pressure,column,sensor,retentionTime,deltaT,coeffA,coeffB,coeffC,coeffD,calData,slope,constant
+,Hydrogen,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,20,25,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""200"",""VALUE"":""5.5042"",""STATUS"":true,""TIMESTAMP"":""3/7/2025""}]",0.027521,0
+,Carbon Monoxide,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,45,20,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""750"",""VALUE"":""7.063"",""STATUS"":true,""TIMESTAMP"":""3/7/2025""}]",0.009417,0
+,Methane,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,95,25,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""25000"",""VALUE"":""0.8236"",""STATUS"":true,""TIMESTAMP"":""3/7/2025""},{""PPM"":""4000"",""VALUE"":""0.0582"",""STATUS"":""true"",""TIMESTAMP"":""3/7/2025""}]",0.000033,0
+,Carbon Dioxide,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,200,50,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":""null"",""TIMESTAMP"":""""}]",,
+,Acetylene,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,530,60,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""150"",""VALUE"":""3.2768"",""STATUS"":true,""TIMESTAMP"":""3/10/2025""}]",0.021845,0
+,Ethylene,170,300,Supelco_Carboxen_1000,SGX_MiCS-6814_S1,1070,90,,,,,"[{""PPM"":""0"",""VALUE"":""0"",""STATUS"":true,""TIMESTAMP"":""""},{""PPM"":""300"",""VALUE"":""1.2263"",""STATUS"":true,""TIMESTAMP"":""3/10/2025""}]",0.004088,0

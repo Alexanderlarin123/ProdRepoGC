@@ -1,0 +1,28 @@
+name,path,objectType,objectInstance,type,description,dataType,units
+Application,/Data/GEN_CFG_ApplicationType_SP,,,operation,Application type,enum,
+Pressure,/Data/GC_CFG_ColumnPressure_SP,,,column,Operating pressure,numeric,Hg
+ColumnTemp,/Data/GC_CFG_ColumnTemp_SP,,,column,Column temperature,numeric,C
+ColumnType,/Data/GC_CFG_ColumnType_SP,,,column,Column type,enum,
+ColumnLength,/Data/GC_CFG_ColumnLength_SP,,,column,Column length,numeric,m
+AnalysisTime,/Data/GC_CFG_AnalysisTime_SP,,,operation,Time of analysis,numeric,sec
+PurgingTime,/Data/GC_CFG_PurgingTime_SP,,,operation,Purging time for pre-concentrator,numeric,sec
+SamplingTime,/Data/GC_CFG_SamplingTime_SP,,,operation,Sampling time,numeric,sec
+InjectionTime,/Data/GC_CFG_InjectionTime_SP,,,operation,Injection time,numeric,sec
+WarmUpTime,/Data/GC_CFG_WarmUpTime_SP,,,operation,Warm up time for GC,numeric,sec
+PreconcentratorType,/Data/GC_CFG_PreconcentratorType_SP,,,preconcentrator,Type of pre-concentrator,enum,
+Preconcentrator,/Data/GC_CFG_Preconcentrator_CF,,,preconcentrator,Pre-concentrator injection temperature,boolean,
+GCSensor1Type,/Data/GC_CFG_S01_Type_SP,,,sensor,Sensor 1 type,enum,
+GCSensor2Type,/Data/GC_CFG_S02_Type_SP,,,sensor,Sensor 2 type,enum,
+GCSensor3Type,/Data/GC_CFG_S03_Type_SP,,,sensor,Sensor 3 type,enum,
+GCSensor4Type,/Data/GC_CFG_S04_Type_SP,,,sensor,Sensor 4 type,enum,
+GCSensorsNum,/Data/GC_CFG_SensorNumer_SP,,,sensor,Number of active sensors,numeric,
+GCChannelNum,/Data/GC_CFG_ChannelNumber_SP,,,sample,Number of sampling channels,numeric,
+GCMultiChannel,/Data/GC_CFG_MultiChannel_CF,,,operation,GC multi channel analysis enabled,boolean,
+RTSensorModule,/Data/RT_CFG_SensorModule_CF,,,realTimeSensor,Real time sensor module enabled,boolean,
+RTSensorModuleNumber,/Data/RT_CFG_SensorModule_SP,,,realTimeSensor,Real time sensor module number,numeric,
+CalibrationModule,/Data/GEN_CFG_CalibrationModule_CF,,,callibrarion,Callibration module enabled,boolean,
+UnitLogo,,,,interface,Sampling unit/channel logo,string,
+MainLogo,,,,interface,Main logo,string,
+MainColor,,,,interface,Main color,string,
+UnitName,,,,interface,Unit name,string,
+MainTitle,,,,interface,Main title,string,
